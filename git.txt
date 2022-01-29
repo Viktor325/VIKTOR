@@ -1,0 +1,8 @@
+echo "# VIKTOR" >> README.md
+git init
+2 git add README.md
+3 git commit -m "first commit"
+git branch -M main
+1 git remote add origin https://github.com/Viktor325/VIKTOR.git
+git push -u origin main
+git init
